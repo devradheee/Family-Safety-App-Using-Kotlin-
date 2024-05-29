@@ -1,1 +1,1 @@
-famill safety App using KOtlin language.
+famill safety App using Kotlin language.
